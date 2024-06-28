@@ -479,6 +479,9 @@
     "TonyRL"
   ],
   "/asiantolick/:category{.+}?": [],
+  "/asmr-200/works/:order?/:subtitle?/:sort?": [
+    "hualiong"
+  ],
   "/asus/bios/:model": [
     "Fatpandac"
   ],
@@ -826,6 +829,9 @@
   ],
   "/bloomberg/:site?": [
     "bigfei"
+  ],
+  "/bluearchive/news/:server/:type?": [
+    "equt"
   ],
   "/bluestacks/release/5": [
     "TonyRL"
@@ -2997,6 +3003,9 @@
   "/hypergryph/arknights/announce/:platform?/:group?": [
     "swwind"
   ],
+  "/hypergryph/arknights/arktca": [
+    "Bendancom"
+  ],
   "/hypergryph/arknights/japan": [
     "ofyark"
   ],
@@ -3117,6 +3126,9 @@
   ],
   "/instructables/projects/:category?": [
     "wolfg1969"
+  ],
+  "/investor/:category{.+}?": [
+    "nczitzk"
   ],
   "/ippa/": [
     "cnkmmk"
@@ -3722,6 +3734,9 @@
   ],
   "/medsci/:sid?/:tid?": [
     "nczitzk"
+  ],
+  "/meituan/tech": [
+    "ktKongTong"
   ],
   "/metacritic/:type?/:sort?/:filter?": [],
   "/meteor/boards": [
@@ -4366,6 +4381,9 @@
   "/olevod/vodlist": [
     "fang63625"
   ],
+  "/ollama/blog": [
+    "gavrilov"
+  ],
   "/ollama/library": [
     "Nick22nd",
     "gavrilov"
@@ -4888,6 +4906,9 @@
   ],
   "/rawkuma/manga/:id": [
     "nczitzk"
+  ],
+  "/raycast/changelog": [
+    "equt"
   ],
   "/reactiflux/transcripts": [
     "nczitzk"
@@ -6138,7 +6159,7 @@
     "jasongzy"
   ],
   "/usts/jwch/:type?": [],
-  "/utgd/:category?": [
+  "/utgd/category/:category?": [
     "nczitzk"
   ],
   "/utgd/timeline": [
